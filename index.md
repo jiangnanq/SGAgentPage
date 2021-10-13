@@ -4,7 +4,7 @@ Singapore property agent is a mobile App to help you find property agent quickly
 
 ### Source of transaction record
 
-All transanction records are retrieved from Council for Estate Agencies.
+All transanction records are retrieved from [Council for Estate Agencies.](https://www.cea.gov.sg)
 
 ### Privacy policy
 
